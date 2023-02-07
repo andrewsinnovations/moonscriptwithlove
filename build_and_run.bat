@@ -1,3 +1,5 @@
+mkdir dist
+mkdir src
 cd dist
 del *.lua
 cd ../src
